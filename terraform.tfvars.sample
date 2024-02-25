@@ -1,0 +1,7 @@
+hcloud_token= ""
+path_private_key=""
+path_pub_key=""
+server_name=""           # option, default= "server"
+server_type=""           # option, default= "cx11"  https://docs.hetzner.com/cloud/servers/overview
+location=""              # option, default= "fsn1"  https://docs.hetzner.com/cloud/general/locations/
+number_servers=""        # option, default= "1"
